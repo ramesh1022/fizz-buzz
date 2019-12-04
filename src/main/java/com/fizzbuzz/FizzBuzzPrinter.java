@@ -1,6 +1,6 @@
-package org.fizzbuzz;
+package com.fizzbuzz;
 
-import org.fizzbuzz.util.FizzBuzzUtil;
+import com.fizzbuzz.util.FizzBuzzUtil;
 
 import java.util.Objects;
 import java.util.stream.IntStream;

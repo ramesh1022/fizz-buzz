@@ -1,4 +1,4 @@
-package org.fizzbuzz.util;
+package com.fizzbuzz.util;
 
 import java.util.function.Predicate;
 
